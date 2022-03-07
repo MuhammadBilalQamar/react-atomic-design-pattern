@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textClass {
+  background-color: red;
+  color: coral;
+}
+
+/* temporary change */
+.MuiPopover-root .MuiMenu-paper {
+  margin-top: 3rem;
+}
+
+/* .MuiTableHead-root .MuiTableRow-root .MuiTableCell-head {
+  resize: horizontal;
+  overflow-x: overlay;
+  overflow-y: hidden;
+} */
